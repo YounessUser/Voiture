@@ -1,0 +1,1935 @@
+[
+  {
+    "marque": "ABARTH",
+    "models": [
+      "500",
+      "124",
+      "600",
+      "PUNTO EVO"
+    ]
+  },
+  {
+    "marque": "AC",
+    "models": [
+      "COBRA"
+    ]
+  },
+  {
+    "marque": "AIXAM",
+    "models": [
+      "CITY",
+      "COUPE",
+      "CROSSLINE",
+      "500",
+      "400",
+      "500",
+      "A741",
+      "CROSSOVER",
+      "D-TRUCK",
+      "SCOUTY"
+    ]
+  },
+  {
+    "marque": "ALFA ROMEO",
+    "models": [
+      "GIULIETTA",
+      "MITO",
+      "STELVIO",
+      "GIULIA",
+      "1300",
+      "145",
+      "146",
+      "147 ",
+      "155",
+      "156",
+      "159",
+      "1600",
+      "166",
+      "2000",
+      "4C",
+      "75",
+      "8C",
+      "ALFETTA",
+      "BERLINA",
+      "BRERA",
+      "GUILIA",
+      "GIULIETTA",
+      "CTV",
+      "MITO",
+      "MONTREAL",
+      "RZ",
+      "SPIDER",
+      "STELVIO",
+      "SZ"
+    ]
+  },
+  {
+    "marque": "ALKE",
+    "models": [
+      "ATX"
+    ]
+  },
+  {
+    "marque": "ALPINA",
+    "models": [
+      "B3",
+      "D3",
+      "B4",
+      "B5",
+      "B10",
+      "B12",
+      "B6",
+      "B7",
+      "D4",
+      "D5",
+      "XD3",
+      "A110"
+    ]
+  },
+  {
+    "marque": "ALPINE",
+    "models": [
+      "A110",
+      "A610",
+      "GTA",
+      "A310"
+    ]
+  },
+  {
+    "marque": "ARIEL",
+    "models": [
+      "ATOM"
+    ]
+  },
+  {
+    "marque": "ASTON MARTIN",
+    "models": [
+      "V8 VANTAGE",
+      "DB9",
+      "VANQUISH",
+      "DB11",
+      "CYGNET",
+      "DB7",
+      "DBS",
+      "RAPIDE",
+      "V12 VANTAGE",
+      "VIRAGE"
+    ]
+  },
+  {
+    "marque": "AUBURN",
+    "models": [
+      "CABRIOLET"
+    ]
+  },
+  {
+    "marque": "AUDI",
+    "models": [
+      "A3",
+      "A1",
+      "A4",
+      "Q5",
+      "100",
+      "200",
+      "80",
+      "A2",
+      "A5",
+      "A6",
+      "A7",
+      "A8",
+      "ALLROAD",
+      "COUPE",
+      "COUPE GT",
+      "Q2",
+      "Q3",
+      "Q5 2.0 TDI",
+      "Q7",
+      "Q8",
+      "R8",
+      "RS Q3",
+      "RS2",
+      "RS3",
+      "RS4",
+      "RS5",
+      "RS6",
+      "RS7",
+      "S1",
+      "S3",
+      "S4",
+      "S5",
+      "S6",
+      "S7",
+      "S8",
+      "SQ5",
+      "SQ7",
+      "TT",
+      "TT RS",
+      "TTS"
+    ]
+  },
+  {
+    "marque": "AUSTIN",
+    "models": [
+      "MINI",
+      "MINI-MOKE",
+      "1000",
+      "HEALEY",
+      "MINI-MOKE",
+      "PRINCESS"
+    ]
+  },
+  {
+    "marque": "AUSTIN HEALEY",
+    "models": [
+      "3000",
+      "SPRITE",
+      "100"
+    ]
+  },
+  {
+    "marque": "AUTHIS",
+    "models": [
+      "MORRIS"
+    ]
+  },
+  {
+    "marque": "AUTOBIANCHI",
+    "models": [
+      "BIANCHINA",
+      "A112",
+      "GHIA"
+    ]
+  },
+  {
+    "marque": "BELLIER",
+    "models": [
+      "B8",
+      "JADE",
+      "VOITURETTE"
+    ]
+  },
+  {
+    "marque": "BENTLEY",
+    "models": [
+      "CONTINENTAL",
+      "BENTAYGA",
+      "FLYING SPUR",
+      "MULSANNE",
+      "ARNAGE",
+      "AZURE",
+      "EIGHT",
+      "S1",
+      "S3",
+      "T",
+      "TURBO R"
+    ]
+  },
+  {
+    "marque": "BERTONE",
+    "models": [
+      "X1/9"
+    ]
+  },
+  {
+    "marque": "BMW",
+    "models": [
+      "SERIE 1",
+      "SERIE 3",
+      "SERIE 2",
+      "SERIE 5",
+      "2000",
+      "2002",
+      "2800",
+      "3.0",
+      "600",
+      "I3",
+      "I8",
+      "1600",
+      "I8",
+      "SERIE 2",
+      "SERIE 3 GT",
+      "SERIE 4",
+      "SERIE 5 GT",
+      "SERIE 6",
+      "SERIE 7",
+      "SERIE 8",
+      "X1",
+      "X2",
+      "X3",
+      "X4",
+      "X5",
+      "X6",
+      "Z1",
+      "Z3",
+      "Z4",
+      "Z8"
+    ]
+  },
+  {
+    "marque": "BOLLORE",
+    "models": [
+      "BLUECAR",
+      "BLUESUMMER"
+    ]
+  },
+  {
+    "marque": "BORGWARD",
+    "models": [
+      "ISABELLA"
+    ]
+  },
+  {
+    "marque": "BUGATTI",
+    "models": [
+      "VEYRON",
+      "TYPE 57"
+    ]
+  },
+  {
+    "marque": "BUICK",
+    "models": [
+      "PARK AVENUE",
+      "RIVIERA"
+    ]
+  },
+  {
+    "marque": "BURBY S",
+    "models": [
+      "E-MOKE"
+    ]
+  },
+  {
+    "marque": "CADILLAC",
+    "models": [
+      "ESCALADE",
+      "XT5",
+      "CTS",
+      "SEVILLE",
+      "ALLANTE",
+      "ATS",
+      "ATS-V 3.6 V6 470",
+      "BROUGHAM",
+      "CT6",
+      "CTS-V",
+      "DEVILLE",
+      "DTS",
+      "ELDORADO",
+      "SERIE 62",
+      "SRX",
+      "STS",
+      "XLR",
+      "XT5"
+    ]
+  },
+  {
+    "marque": "CASALINI",
+    "models": [
+      "M20"
+    ]
+  },
+  {
+    "marque": "CATERHAM",
+    "models": [
+      "SUPER SEVEN"
+    ]
+  },
+  {
+    "marque": "CHATENET",
+    "models": [
+      "CH 26",
+      "CH 40",
+      "BAROODEUR (2)",
+      "SPORTEEVO"
+    ]
+  },
+  {
+    "marque": "CHEVROLET",
+    "models": [
+      "CORVETTE",
+      "CAMARO",
+      "CAPTIVA",
+      "CRUZE",
+      "3100",
+      "ALERO",
+      "APACHE",
+      "AVALANCHE",
+      "AVEO",
+      "BEL AIR",
+      "BLAZER",
+      "C10",
+      "C30",
+      "CAMARO",
+      "CAMPER 200",
+      "CAPTIVA",
+      "CHEVELLE",
+      "COLORADO",
+      "CORVAIR",
+      "CORVETTE",
+      "CRUZE",
+      "CAMINO",
+      "EPICA",
+      "FLEETLINE",
+      "IMPALA",
+      "KALOS",
+      "LACETTI",
+      "MALIBU",
+      "MATIZ",
+      "MONTE CARLO",
+      "NOVA",
+      "NUBIRA",
+      "ORLANDO",
+      "S10 PICK UP",
+      "SILVERADO",
+      "SPARK",
+      "SSR",
+      "SUBURBAN",
+      "TAHOE",
+      "TRAILBLAZER",
+      "TRAVERSE",
+      "TRAX",
+      "VAN EXPRESS",
+      "VOLT"
+    ]
+  },
+  {
+    "marque": "CHRYSLER",
+    "models": [
+      "PT CRUISER",
+      "300 C",
+      "GRAND VOYAGER",
+      "CROSSFIRE",
+      "300",
+      "300 C",
+      "300 M",
+      "LEBARON",
+      "NEW YORKER",
+      "PACIFICA",
+      "CRUISER",
+      "SEBRING",
+      "STRATUS",
+      "VIPER",
+      "VOYAGER"
+    ]
+  },
+  {
+    "marque": "CITROEN",
+    "models": [
+      "C3",
+      "C4 PICASSO",
+      "C4",
+      "C4 CACTUS",
+      "2CV",
+      "ACADIANE",
+      "AX",
+      "B2",
+      "BERLINGO",
+      "BX",
+      "C-CROSSER",
+      "C-ELYSSE",
+      "C-ZERO",
+      "C1",
+      "C15",
+      "C2",
+      "C25",
+      "C3 AIRCROSS",
+      "C3 PICASSO",
+      "C3 PLURIEL",
+      "C35",
+      "C4",
+      "C4 SPACETOURER",
+      "C5",
+      "C5 AIRCROSS",
+      "C6",
+      "C8",
+      "CX",
+      "DS",
+      "DS3",
+      "DS4",
+      "DS5",
+      "DYANE",
+      "E-MEHARI",
+      "EVASION",
+      "GRAND C4 PICASSI",
+      "GRAND C4 SPACETOURER",
+      "ID",
+      "JUMPER",
+      "JUMPY",
+      "NEMO",
+      "PICASSO",
+      "SAXO",
+      "XM",
+      "XANTIA",
+      "VISA",
+      "TRACTION",
+      "XSARA",
+      "ZX"
+    ]
+  },
+  {
+    "marque": "CUPRA",
+    "models": [
+      "ATECA"
+    ]
+  },
+  {
+    "marque": "DACIA",
+    "models": [
+      "DUSTER",
+      "SANDERO",
+      "LOGAN",
+      "LODGY",
+      "DOKKER"
+    ]
+  },
+  {
+    "marque": "DAEWOO",
+    "models": [
+      "MATIZ",
+      "KALOS",
+      "LANOS",
+      "MUSSO"
+    ]
+  },
+  {
+    "marque": "DAIHATSU",
+    "models": [
+      "SIRION",
+      "TERIOS",
+      "COPEN",
+      "MATERIA",
+      "CUORE",
+      "ROCKY",
+      "TREVIS"
+    ]
+  },
+  {
+    "marque": "DANGEL",
+    "models": [
+      "BERLINGO",
+      "JUMPY"
+    ]
+  },
+  {
+    "marque": "DE LOREAN",
+    "models": [
+      "DMC-12"
+    ]
+  },
+  {
+    "marque": "DE TOMASO",
+    "models": [
+      "LONGCHAMP",
+      "PANTERA"
+    ]
+  },
+  {
+    "marque": "DODGE",
+    "models": [
+      "RAM",
+      "CHALLENGER",
+      "CALIBER",
+      "DURANGO",
+      "CHARGER",
+      "CORONET",
+      "JOURNEY",
+      "NITRO",
+      "RAMCHARGER",
+      "VIPER"
+    ]
+  },
+  {
+    "marque": "DONKERVOORT",
+    "models": [
+      "D8",
+      "S8"
+    ]
+  },
+  {
+    "marque": "DS",
+    "models": [
+      "DS 3",
+      "DS 4",
+      "DS 5",
+      "DS 4 CROSSBACK",
+      "DS 7 CROSSBACK"
+    ]
+  },
+  {
+    "marque": "DUE",
+    "models": [
+      "FIRST"
+    ]
+  },
+  {
+    "marque": "EVANTA",
+    "models": [
+      "DB4"
+    ]
+  },
+  {
+    "marque": "EXCALIBUR",
+    "models": [
+      "PHAETON"
+    ]
+  },
+  {
+    "marque": "FACEL VEGA",
+    "models": [
+      "FACELLIA"
+    ]
+  },
+  {
+    "marque": "FERRARI",
+    "models": [
+      "CALIFORNIA",
+      "458",
+      "F430",
+      "488",
+      "208",
+      "250",
+      "308",
+      "328",
+      "330",
+      "348",
+      "360",
+      "365",
+      "400",
+      "421",
+      "456",
+      "512",
+      "512 BB",
+      "550",
+      "575",
+      "599",
+      "612",
+      "812",
+      "CALIFORNIA",
+      "DINO",
+      "F12",
+      "F355",
+      "F40",
+      "F430",
+      "FF",
+      "GTC4",
+      "CTC4LUSSO",
+      "MONDIAL",
+      "PORTOFINO",
+      "TESTAROSSA"
+    ]
+  },
+  {
+    "marque": "FIAT",
+    "models": [
+      "500 X",
+      "TIPO",
+      "500 L",
+      "1200",
+      "124",
+      "126",
+      "128",
+      "130",
+      "2300",
+      "500",
+      "500 L",
+      "500 X",
+      "600",
+      "850",
+      "BARCHETTA",
+      "BRAVA",
+      "BRAVO",
+      "CINGUECENTO",
+      "COUPE",
+      "CROMA",
+      "DINO",
+      "DOBLO",
+      "DOBLO CARGO",
+      "DUCATO",
+      "FIORINO",
+      "FREEMONT",
+      "FULLBACK",
+      "GRANDE",
+      "IDEA",
+      "MULTIPLA",
+      "PANDA",
+      "PUNTO",
+      "PUNTO EVO",
+      "QUBO",
+      "RITMO",
+      "SCUDO",
+      "SEDICI",
+      "SEICENTO",
+      "SPIDER",
+      "STILO",
+      "TALENTO",
+      "TIPO",
+      "ULYSSE",
+      "UNO"
+    ]
+  },
+  {
+    "marque": "FISKER",
+    "models": [
+      "KARMA (4)",
+      "KARMA (4)"
+    ]
+  },
+  {
+    "marque": "FORD",
+    "models": [
+      "FIESTA (1 995)",
+      "KUGA (1 665)",
+      "FOCUS (1 579)",
+      "C-MAX (1 332)",
+      "17 M (1)",
+      "A (7)",
+      "B-MAX (780)",
+      "C-MAX (1 332)",
+      "COBRA (1)",
+      "COUGAR (3)",
+      "COUNTRY (1)","ECONOLINE",
+      "FORD ECOSPORT",
+      "EDGE",
+      "ESCORT",
+      "EXPEDITION",
+      "EXPLORER",
+      "F100",
+      "F150",
+      "F250",
+      "F350",
+      "FIESTA",
+      "FLEX",
+      "FOCUS",
+      "FOCUS C-MAX",
+      "FUSION",
+      "GALAXIE",
+      "GALAXY",
+      "GRAND C-MAX",
+      "GRAND TOURNEO CONNECT",
+      "GT",
+      "GT 40",
+      "KA",
+      "KA+",
+      "KUGA",
+      "LTD",
+      "MAVERICK",
+      "MONDEO",
+      "MUSTANG",
+      "RANGER",
+      "S-MAX",
+      "SCORPIO",
+      "T",
+      "THUNDERBIRD",
+      "TOURNEO",
+      "TOURNEO CONNECT",
+      "TOURNEO COURIER",
+      "TOURNEO CUSTOM",
+      "TRANSIT",
+      "TRANSIT CONNEC",
+      "TRANSIT COURIER",
+      "TANSIT CUSTOM"
+    ]
+  },
+  {
+    "marque": "FUSO",
+    "models": [
+      "CANTER"
+    ]
+  },
+  {
+    "marque": "GMC",
+    "models": [
+      "SIERRA",
+      "ACADIA",
+      "YUKON",
+      "CANYON",
+      "GMC",
+      "SLE",
+      "TERRAIN"
+    ]
+  },
+  {
+    "marque": "HONDA",
+    "models": [
+      "CIVIC",
+      "CR-V",
+      "HR-V",
+      "JAZZ",
+      "ACCORD",
+      "CONCERTO",
+      "CR-Z",
+      "CRX",
+      "FR-V",
+      "INSIGHT",
+      "JAZZ",
+      "LEGEND",
+      "NSX",
+      "PRELUDE",
+      "S2000"
+    ]
+  },
+  {
+    "marque": "HUMMER",
+    "models": [
+      "H1",
+      "H2",
+      "H3"
+    ]
+  },
+  {
+    "marque": "HYUNDAI",
+    "models": [
+      "ACCENT",
+      "ATOS PRIME",
+      "COUPE",
+      "GALLOPER",
+      "GENESIS",
+      "GETZ",
+      "H 100",
+      "I40",
+      "IX20",
+      "IX35",
+      "IX55",
+      "KONA",
+      "MATRIX",
+      "SANTA FE",
+      "SCOUPE",
+      "SONATA",
+      "TERRACAN",
+      "TRAJET",
+      "TUCSON",
+      "VELOSTER",
+      "H 100",
+      "H1",
+      "H1 VAN",
+      "I10",
+      "I20",
+      "I3"
+    ]
+  },
+  {
+    "marque": "INFINITI",
+    "models": [
+      "Q30",
+      "Q50",
+      "FX",
+      "QX30",
+      "EX",
+      "FX",
+      "G",
+      "M",
+      "Q60",
+      "Q70",
+      "QX",
+      "QX30",
+      "QX50",
+      "QX70"
+    ]
+  },
+  {
+    "marque": "INNOCENTI",
+    "models": [
+      "MINI"
+    ]
+  },
+  {
+    "marque": "ISUZU",
+    "models": [
+      "D-MAX",
+      "SERIE N",
+      "TROOPER",
+      "N-SERIES"
+    ]
+  },
+  {
+    "marque": "IVECO",
+    "models": [
+      "DAILY",
+      "STRALIS",
+      "DAILY CHASSIS CAB",
+      "EUROCARGO",
+      "TRAKKER"
+    ]
+  },
+  {
+    "marque": "JAGUAR",
+    "models": [
+      "XF",
+      "F-PACE",
+      "XE",
+      "E-PACE",
+      "2.4",
+      "240",
+      "3.8",
+      "420",
+      "DAIMLER",
+      "2.4",
+      "240",
+      "3.8",
+      "DAIMLER",
+      "E-PACE",
+      "F-PACE",
+      "F-TYPE",
+      "I-PACE",
+      "MK II",
+      "REPLICA LE MANS SPORTS",
+      "S-TYPE",
+      "TYPE C",
+      "TYPE E",
+      "X-TYPE",
+      "XE",
+      "XF",
+      "XJ",
+      "XJ12",
+      "XJ6",
+      "XJ8",
+      "XJR",
+      "XJR-S",
+      "XJS",
+      "XJS-C",
+      "XK",
+      "XK8"
+    ]
+  },
+  {
+    "marque": "JDM SIMPA",
+    "models": [
+      "ALOES"
+    ]
+  },
+  {
+    "marque": "JEEP",
+    "models": [
+      "RENEGADE",
+      "WRANGLER",
+      "COMPASS",
+      "CHEROKEE",
+      "CJ7",
+      "COMANCHE",
+      "COMMANDER",
+      "COMMANDO",
+      "FORD",
+      "GRAND CHEROKEE",
+      "PATRIOT",
+      "RENEGADE",
+      "WILLYS",
+      "WRANGLER"
+    ]
+  },
+  {
+    "marque": "KIA",
+    "models": [
+      "SPORTAGE",
+      "CEED",
+      "RIO",
+      "VENGA ",
+      "CAREN",
+      "CARNIVAL",
+      "CEE D",
+      "CERATO",
+      "MAGENTIS",
+      "NIRO",
+      "STINGER",
+      "STONIC",
+      "VENGA",
+      "OPIRUS",
+      "OPTIMA",
+      "PICANTO",
+      "PRO CEE D",
+      "PROCEED"
+    ]
+  },
+  {
+    "marque": "KTM",
+    "models": [
+      "X-BOW"
+    ]
+  },
+  {
+    "marque": "LADA",
+    "models": [
+      "NIVA",
+      "KALINA"
+    ]
+  },
+  {
+    "marque": "LAMBORGHINI",
+    "models": [
+      "HURACAN",
+      "AVENTADOR",
+      "GALLARDO",
+      "DIABLO",
+      "COUNTACH",
+      "MURCIELAGO",
+      "URRACO",
+      "URUS"
+    ]
+  },
+  {
+    "marque": "LANCIA",
+    "models": [
+      "YPSILON",
+      "DELTA",
+      "MUSA",
+      "VOYAGER",
+      "BETA",
+      "DELTA",
+      "FLAVIA",
+      "FULVIA",
+      "KAPPA",
+      "LYBRA",
+      "PHEDRA",
+      "STRATOS",
+      "THEMA"
+    ]
+  },
+  {
+    "marque": "LAND ROVER",
+    "models": [
+      "RANGE ROVER EVOQUE",
+      "RANGE ROVER SPORT",
+      "RANGE ROVER",
+      "DEFENDER",
+      "DISCOVERY",
+      "DISCOVERY SPORT",
+      "FREELANDER",
+      "LAND",
+      "RANGE ROVER VELAR"
+    ]
+  },
+  {
+    "marque": "LEXUS",
+    "models": [
+      "NX",
+      "RX",
+      "CT",
+      "IS",
+      "ES",
+      "GS",
+      "LC",
+      "LS",
+      "RC",
+      "SC"
+    ]
+  },
+  {
+    "marque": "LIGIER",
+    "models": [
+      "JS",
+      "X-TOO",
+      "X-TOO MAX",
+      "X-TOO R",
+      "AMBRA",
+      "BE",
+      "IXO",
+      "NOVA 500",
+      "OPTIMAX",
+      "X-TOO RS"
+    ]
+  },
+  {
+    "marque": "LINCOLN",
+    "models": [
+      "CONTINENTAL",
+      "MARK VIII"
+    ]
+  },
+  {
+    "marque": "LONDON TAXI COMPANY",
+    "models": [
+      "TX4"
+    ]
+  },
+  {
+    "marque": "LOTUS",
+    "models": [
+      "ELISE",
+      "EXIGE",
+      "EVORA",
+      "ELAN",
+      "2 ELEVEN",
+      "EUROPA",
+      "EXCEL",
+      "SEVEN"
+    ]
+  },
+  {
+    "marque": "MASERATI",
+    "models": [
+      "GHIBLI",
+      "LEVANTE",
+      "GRANTURISMO",
+      "GRANCABRIO",
+      "GRANSPORT",
+      "QUATTROPORTE",
+      "222",
+      "3200 GT",
+      "4200 GT",
+      "BITURBO",
+      "BORA",
+      "COUPE",
+      "MERAK",
+      "MEXICO",
+      "MISTRAL",
+      "QUATTROPORTE",
+      "SHAMAL",
+      "SPYDER"
+    ]
+  },
+  {
+    "marque": "MATRA",
+    "models": [
+      "BAGHEERA",
+      "JET",
+      "M530"
+    ]
+  },
+  {
+    "marque": "MAYBACH",
+    "models": [
+      "57 BERLINE"
+    ]
+  },
+  {
+    "marque": "MAZDA",
+    "models": [
+      "CX-5",
+      "CX-3",
+      "MX5",
+      "3",
+      "2",
+      "5",
+      "6",
+      "626",
+      "BT-50",
+      "CX-7",
+      "DEMIO",
+      "MX3",
+      "MX5",
+      "PREMACY",
+      "RX-7",
+      "RX-8"
+    ]
+  },
+  {
+    "marque": "MCLAREN",
+    "models": [
+      "570S",
+      "675 LT",
+      "MP4-12C",
+      "650 S",
+      "540C",
+      "570GT",
+      "720S"
+    ]
+  },
+  {
+    "marque": "MEGA",
+    "models": [
+      "CLUB",
+      "MULTITRUCK"
+    ]
+  },
+  {
+    "marque": "MERCEDES",
+    "models": [
+      "CLASSE C",
+      "CLASSE A",
+      "CLASSE B",
+      "GLA",
+      "1017",
+      "170",
+      "180",
+      "190",
+      "200",
+      "220",
+      "230",
+      "CLASSE CLC",
+      "CLASSE CLS",
+      "CLASSE E",
+      "CLASSE G",
+      "CLASSE GL",
+      "CLASSE GLK",
+      "CLASSE M",
+      "CLASSE R",
+      "CLASSE S",
+      "CLASSE V",
+      "CLASSE X",
+      "CLK",
+      "GLA",
+      "GLC",
+      "GLC COUPE",
+      "GLE",
+      "GLE COUPE",
+      "GLS",
+      "MARCO POLO",
+      "SL",
+      "SLC",
+      "SLK",
+      "SLR",
+      "SLS",
+      "SPRINTER",
+      "UNIMOG",
+      "VANEO",
+      "VIANO",
+      "VITO"
+    ]
+  },
+  {
+    "marque": "MERCEDES-AMG",
+    "models": [
+      "GT"
+    ]
+  },
+  {
+    "marque": "MERCURY",
+    "models": [
+      "COUGAR"
+    ]
+  },
+  {
+    "marque": "MG",
+    "models": [
+      "TF",
+      "F",
+      "A",
+      "B",
+      "C",
+      "MIDGET",
+      "RV8",
+      "TC",
+      "TD",
+      "ZR",
+      "ZS",
+      "ZT"
+    ]
+  },
+  {
+    "marque": "MIA ELECTRIC",
+    "models": [
+      "MIA"
+    ]
+  },
+  {
+    "marque": "MICROCAR",
+    "models": [
+      "M.GO",
+      "DUE",
+      "M8",
+      "M-PRO",
+      "MC1",
+      "VIRGO"
+    ]
+  },
+  {
+    "marque": "MINI",
+    "models": [
+      "MINI",
+      "COUNTRYMAN",
+      "MINI CLUBMAN",
+      "MINI CABRIOLET",
+      "MINI COUPE",
+      "MINI ROADSTER",
+      "PACEMAN"
+    ]
+  },
+  {
+    "marque": "MITSUBISHI",
+    "models": [
+      "ASX",
+      "OUTLANDER",
+      "PAJERO",
+      "L200",
+      "3000 GT",
+      "3000 SL",
+      "CANTER",
+      "COLT",
+      "ECLIPSE",
+      "ECLIPSE CROSS",
+      "GRANDIS",
+      "I-MIEV",
+      "LANCER",
+      "MONTERO",
+      "OUTLANDER",
+      "PAJERO",
+      "PAJERO PININ",
+      "PAJERO SPORT",
+      "SPACE STAR"
+    ]
+  },
+  {
+    "marque": "MORGAN",
+    "models": [
+      "PLUS 4",
+      "4/4",
+      "PLUS 8",
+      "ROADSTER V6",
+      "AERO 8",
+      "AEROMAX",
+      "ROADSTER",
+      "THREEWHEELER"
+    ]
+  },
+  {
+    "marque": "MORRIS",
+    "models": [
+      "1300",
+      "MINI"
+    ]
+  },
+  {
+    "marque": "MPM MOTORS",
+    "models": [
+      "ERELIS",
+      "PS.160"
+    ]
+  },
+  {
+    "marque": "NISSAN",
+    "models": [
+      "QASHQAI",
+      "100 NX",
+      "160",
+      "280 ZX",
+      "300 ZX",
+      "350Z",
+      "370Z",
+      "ALMERA",
+      "ALMERA TINO",
+      "ATLEON",
+      "CABSTAR",
+      "CUBE",
+      "EVALIA",
+      "GT-R",
+      "INTERSTAR",
+      "JUKE",
+      "KUBISTAR",
+      "LEAF",
+      "MICRA",
+      "MURANO",
+      "NAVARA",
+      "NOTE",
+      "NP300",
+      "NP300 NAVARA",
+      "NT400 CABSTAR",
+      "NV200",
+      "NV200 EVALIA",
+      "NV300",
+      "NV400",
+      "PATHFINDER",
+      "PATROL",
+      "PICK UP",
+      "PIXO",
+      "PRIMASTAR",
+      "PRIMERA",
+      "PULSAR",
+      "QASHQAI",
+      "QASHQAI +2",
+      "SUNNY",
+      "TERRANO",
+      "X-TRAIL"
+    ]
+  },
+  {
+    "marque": "NSU",
+    "models": [
+      "PRINZ"
+    ]
+  },
+  {
+    "marque": "OLDSMOBILE",
+    "models": [
+      "CUTLASS",
+      "88",
+      "TORONADO"
+    ]
+  },
+  {
+    "marque": "OPEL",
+    "models": [
+      "CORSA","CASCADA",
+      "COMBO",
+      "COMBO CARGO",
+      "COMBO LIFE",
+      "ASTRA",
+      "MOKKA",
+      "MOKKA X",
+      "ADAM",
+      "AGILA",
+      "AMPERA",
+      "AMPERA-E",
+      "ANTARA",
+      "ASCONA",
+      "MOVANO",
+      "OMEGA",
+      "SIGNUM",
+      "SPEEDSTER",
+      "TIGRA",
+      "VECTRA",
+      "VIVARO",
+      "ZAFIRA",
+      "ZAFIRA TOURER",
+      "CROSSLAND X",
+      "FRONTERA",
+      "GRANDLAND X",
+      "GT",
+      "INSIGNIA",
+      "KADETT",
+      "KARL"
+    ]
+  },
+  {
+    "marque": "PACKARD",
+    "models": [
+      "SEDAN 8",
+      "SUPER EIGHT"
+    ]
+  },
+  {
+    "marque": "PANHARD",
+    "models": [
+      "CD",
+      "PL 17"
+    ]
+  },
+  {
+    "marque": "PANTHER",
+    "models": [
+      "J72"
+    ]
+  },
+  {
+    "marque": "PEUGEOT",
+    "models": [
+      "308",
+      "1007",
+      "104",
+      "106",
+      "107",
+      "108",
+      "2008",
+      "203",
+      "204",
+      "205",
+      "206",
+      "206+",
+      "207",
+      "207+",
+      "208",
+      "3008",
+      "3008 1.6 HDI 115 FAP BUSINESS PACK",
+      "301",
+      "306",
+      "307",
+      "308",
+      "309",
+      "4007",
+      "4008",
+      "406",
+      "407",
+      "5008",
+      "504",
+      "505",
+      "508",
+      "508 RXH",
+      "605",
+      "607",
+      "806",
+      "807",
+      "BIPPER",
+      "BIPPER TEPEE",
+      "BOXER",
+      "EXPERT",
+      "EXPERT TEPEE",
+      "ION",
+      "P4",
+      "PARTNER",
+      "PARTNER TEPEE",
+      "RCZ",
+      "RIFTER",
+      "TRAVELLER"
+    ]
+  },
+  {
+    "marque": "PGO",
+    "models": [
+      "CEVENNES",
+      "SPEEDSTER",
+      "356 CLASSIC"
+    ]
+  },
+  {
+    "marque": "PIAGGIO",
+    "models": [
+      "PORTER"
+    ]
+  },
+  {
+    "marque": "PLYMOUTH",
+    "models": [
+      "PROWLER",
+      "FURY",
+      "SATELLITE"
+    ]
+  },
+  {
+    "marque": "POLARIS",
+    "models": [
+      "SLINGSHOT"
+    ]
+  },
+  {
+    "marque": "PONTIAC",
+    "models": [
+      "FIREBIRD",
+      "TRANS AM",
+      "CHIEFTAIN",
+      "SOLSTICE",
+      "STARCHIEF",
+      "TRANS SPORT"
+    ]
+  },
+  {
+    "marque": "PORSCHE",
+    "models": [
+      "911",
+      "CAYENNE",
+      "MACAN",
+      "PANAMERA",
+      "356",
+      "550",
+      "718",
+      "912",
+      "914",
+      "924",
+      "CAYMAN",
+      "928",
+      "944",
+      "968",
+      "BOXSTER",
+      "CARRERA GT"
+    ]
+  },
+  {
+    "marque": "RELIANT",
+    "models": [
+      "SCIMITAR"
+    ]
+  },
+  {
+    "marque": "RENAULT",
+    "models": [
+      "CLIO",
+      "SCIMITAR",
+      "4CV",
+      "ALASKAN",
+      "ALOUETTE",
+      "ALPINE",
+      "AVANTIME",
+      "B120",
+      "B70",
+      "B90",
+      "CAPTUR",
+      "CLIO",
+      "DAUPHINE",
+      "ESPACE",
+      "EXPRESS",
+      "FLUENCE",
+      "GRAND ESPACE",
+      "GRAND KANGOO",
+      "GRAND MODUS",
+      "GRAND SCENIC",
+      "JP2 A14 4X4",
+      "JUVAQUATRE",
+      "KADJAR",
+      "KANGOO",
+      "KANGOO EXPRESS",
+      "KOLEOS",
+      "LAGUNA",
+      "LATITUDE",
+      "MASCOTT",
+      "MASTER",
+      "MAXITY",
+      "MEGANE",
+      "MODUS",
+      "MONASIX",
+      "R10",
+      "R11",
+      "R12",
+      "R16",
+      "R19",
+      "R21",
+      "R25",
+      "R4",
+      "R5",
+      "R8",
+      "R9",
+      "RODEO",
+      "SAFRANE",
+      "SALMSON",
+      "SCENIC",
+      "SPIDER",
+      "SUPER 5",
+      "TALISMAN",
+      "TRAFIC",
+      "TWINGO",
+      "TWIZY",
+      "VEL SATIS",
+      "ZOE",
+      "WIND"
+    ]
+  },
+  {
+    "marque": "ROLLS ROYCE",
+    "models": [
+      "PHANTOM",
+      "GHOST",
+      "CORNICHE",
+      "SILVER SHADOW",
+      "20/25",
+      "CAMARGUE",
+      "DAWN",
+      "SILVER CLOUD",
+      "SILVER SPIRIT",
+      "SILVER SPUR",
+      "SILVER WRAITH",
+      "WRAITH"
+    ]
+  },
+  {
+    "marque": "ROVER",
+    "models": [
+      "MINI",
+      "75",
+      "25",
+      "SERIE 200",
+      "SERIE 600",
+      "P5",
+      "SD1",
+      "SERIE 100"
+    ]
+  },
+  {
+    "marque": "SAAB",
+    "models": [
+      "9-3",
+      "900",
+      "9-5",
+      "SONETT"
+    ]
+  },
+  {
+    "marque": "SALMSON",
+    "models": [
+      "LA RANDONNEE"
+    ]
+  },
+  {
+    "marque": "SANTANA",
+    "models": [
+      "PS10",
+      "S300",
+      "S350",
+      "S410",
+      "S413",
+      "SAMURAI"
+    ]
+  },
+  {
+    "marque": "SEAT",
+    "models": [
+      "LEON",
+      "IBIZA",
+      "ATECA",
+      "ARONA",
+      "ALHAMBRA",
+      "ALTEA FREETRACK",
+      "ALTEA",
+      "AROSA",
+      "CORDOBA",
+      "EXEO",
+      "LEON",
+      "MII"
+    ]
+  },
+  {
+    "marque": "SECMA",
+    "models": [
+      "FUN"
+    ]
+  },
+  {
+    "marque": "SHELBY",
+    "models": [
+      "COBRA 289",
+      "GT 500"
+    ]
+  },
+  {
+    "marque": "SIMCA",
+    "models": [
+      "1000",
+      "1100",
+      "ARONDE"
+    ]
+  },
+  {
+    "marque": "SKODA",
+    "models": [
+      "OCTAVIA",
+      "SUPERB",
+      "KODIAQ",
+      "CITIGO",
+      "FABIA",
+      "FELICIA",
+      "KAROQ",
+      "RAPID",
+      "ROOMSTER",
+      "YETI"
+    ]
+  },
+  {
+    "marque": "SMART",
+    "models": [
+      "FORTWO",
+      "FORFOUR",
+      "ROADSTER",
+      "CROSSBLADE",
+      "SMART"
+    ]
+  },
+  {
+    "marque": "SPYKER",
+    "models": [
+      "C8"
+    ]
+  },
+  {
+    "marque": "SSANGYONG",
+    "models": [
+      "KORANDO",
+      "TIVOLI",
+      "REXTON",
+      "KYRON",
+      "ACTYON",
+      "ACTYON SPORTS",
+      "MUSSO",
+      "RODIUS",
+      "TIVOLI XLV"
+    ]
+  },
+  {
+    "marque": "SUBARU",
+    "models": [
+      "XV",
+      "BRZ",
+      "FORESTER",
+      "IMPREZA",
+      "LEGACY",
+      "LEVORG",
+      "OUTBACK",
+      "SVX",
+      "TREZIA",
+      "WRX STI"
+    ]
+  },
+  {
+    "marque": "SUNBEAM",
+    "models": [
+      "ALPINE",
+      "LOTUS"
+    ]
+  },
+  {
+    "marque": "SUZUKI",
+    "models": [
+      "SWIFT",
+      "VITARA",
+      "SX4 S-CROSS",
+      "IGNIS",
+      "ALTO",
+      "BALENO",
+      "CELERIO",
+      "GRAND VITARA",
+      "GRAND VITARA XL-7",
+      "JIMNY",
+      "X90",
+      "WAGON R+",
+      "SX4",
+      "SPLASH",
+      "SAMURAI",
+      "LIANA",
+      "KIZASHI"
+    ]
+  },
+  {
+    "marque": "TALBOT",
+    "models": [
+      "T120"
+    ]
+  },
+  {
+    "marque": "TALBOT SIMCA",
+    "models": [
+      "SAMBA"
+    ]
+  },
+  {
+    "marque": "TEILHOL",
+    "models": [
+      "RODEO"
+    ]
+  },
+  {
+    "marque": "TESLA",
+    "models": [
+      "MODEL S",
+      "MODEL X"
+    ]
+  },
+  {
+    "marque": "TOYOTA",
+    "models": [
+      "YARIS",
+      "4RUNNER",
+      "AURIS",
+      "AVENSIS",
+      "AVENSIS VERSO",
+      "AYGO",
+      "C-HR",
+      "CARINA E",
+      "CELICA",
+      "COROLLA",
+      "COROLLA VERSO",
+      "FJ CRUISER",
+      "GT86",
+      "HI ACE",
+      "HILUX",
+      "IQ",
+      "LAND CRUISER",
+      "LAND CRUISER SW",
+      "MR",
+      "PICNIC",
+      "PREVIA",
+      "PRIUS",
+      "PRIUS+",
+      "PROACE",
+      "PROACE VERSO",
+      "RAV 4",
+      "STARLET",
+      "SUPRA",
+      "TACOMA",
+      "TUNDRA",
+      "URBAN CRUISER",
+      "VERSO",
+      "VERSO-S",
+      "YARIS",
+      "YARIS VERSO"
+    ]
+  },
+  {
+    "marque": "TRIUMPH",
+    "models": [
+      "TR 6",
+      "TR 3",
+      "SPITFIRE",
+      "TR 4",
+      "2,5 PI",
+      "2000",
+      "DOLOMITE",
+      "GT6",
+      "HERALD",
+      "TR 250"
+    ]
+  },
+  {
+    "marque": "TVR",
+    "models": [
+      "CHIMAERA",
+      "350",
+      "GRIFFITH"
+    ]
+  },
+  {
+    "marque": "ULTIMA",
+    "models": [
+      "GTR"
+    ]
+  },
+  {
+    "marque": "UMM",
+    "models": [
+      "ALTER"
+    ]
+  },
+  {
+    "marque": "VOLKSWAGEN",
+    "models": [
+      "GOLF",
+      "1200",
+      "1300",
+      "1302",
+      "1303",
+      "1500",
+      "1600",
+      "181",
+      "AMAROK",
+      "ARTEON",
+      "BORA",
+      "BUGGY",
+      "CADDY",
+      "CALIFORNIA",
+      "CARAVELLE",
+      "CC",
+      "COCCINELLE",
+      "COMBI",
+      "CORRADO",
+      "CRAFTER",
+      "EOS",
+      "FOX",
+      "GOLF",
+      "GOLF PLUS",
+      "GOLF SPORTSVAN",
+      "ILTIS",
+      "JETTA",
+      "KARMAN GHIA",
+      "LT",
+      "LUPO",
+      "MULTIVAN",
+      "NEW BEETLE",
+      "PASSAT",
+      "PASSAT CC",
+      "PHAETON",
+      "POLO",
+      "SCIROCCO",
+      "SHARAN",
+      "T-ROC",
+      "TIGUAN",
+      "TIGUAN ALLSPACE",
+      "TOUAREG",
+      "TOURAN",
+      "TRANSPORTER"
+    ]
+  },
+  {
+    "marque": "VOLVO",
+    "models": [
+      "XC60",
+      "V40",
+      "V60",
+      "XC90",
+      "121",
+      "144",
+      "480",
+      "850",
+      "C30",
+      "C70",
+      "FH2"
+    ]
+  },
+  {
+    "marque": "WIESMANN",
+    "models": [
+      "GT"
+    ]
+  }
+]

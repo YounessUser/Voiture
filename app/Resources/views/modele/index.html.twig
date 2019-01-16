@@ -1,0 +1,35 @@
+{% extends '../base.html.twig' %}
+
+{% block body %}
+
+    <h1>Modeles list</h1>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for modele in modeles %}
+            <tr>
+                <td><a href="{{ path('modele_show', { 'id': modele.id }) }}">{{ modele.id }}</a></td>
+                <td>{{ modele.solde }}</td>
+                <td>
+
+                    <a class="btn btn-info" href="{{ path('modele_show', { 'id': modele.id }) }}"><i class="fa fa-info"></i> show</a>
+
+                    <a class="btn btn-default" href="{{ path('modele_edit', { 'id': modele.id }) }}"><i class="fa fa-edit"></i> edit</a>
+
+                    <a class="btn btn-danger" href="{{ path('modele_delete', { 'id': modele.id }) }}"><i class="fa fa-warning"></i> delete</a>
+
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a class="btn btn-primary" href="{{ path('modele_new') }}"><i class="fa fa-plus"></i> Create a new modele</a>
+{% endblock %}
